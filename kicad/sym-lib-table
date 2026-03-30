@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Titan_Driver")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/Titan_Driver.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_LCD")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/Custom_LCD.kicad_sym")(options "")(descr ""))
+)
